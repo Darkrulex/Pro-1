@@ -1,27 +1,32 @@
 # Pro
 
- pkg update 
+### Commands <)
 
- pkg upgrade 
+ - `apt update && apt upgrade`
 
- pkg install python 
+ - `pkg install python -y`
 
- pkg install python2 
+ - `pkg install python2 -y`
 
- pkg install lolcat
+ - `pkg install git -y`
 
- pkg install git
+ - `rm -rf Pro`
 
- pip2 install mechanize 
+ - `git clone https://github.com/Hamii-king-06/Pro`
 
- pip2 install requests 
+ - `cd Pro`
 
- pip install futures
+ - `pip install bs4`
 
- pip install bs4
+ - `pip install requests`
 
- git clone https://github.com/Hamii-king-06/Pro.git
+ - `pip install mechanize`
 
- cd Pro
+ - `chmod 777 Pro.py`
 
- python Pro.py
+ - `python Pro.py`
+
+#### WARNING : 
+
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
