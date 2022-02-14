@@ -24,7 +24,7 @@
 
  - `chmod 777 Pro.py`
 
- - `python Pro.py`
+ - `python Pro_power.py`
 
 #### WARNING : 
 
